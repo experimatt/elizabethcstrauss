@@ -106,12 +106,6 @@ h6 {
   border-radius: 50%;
 }
 
-/* .masthead .btn {
-  background-color: rgba(0,0,0,0.5);
-  border: 0;
-  font-weight: 400;
-} */
-
 @media (min-width: 992px) {
   .masthead {
     height: 100vh;
@@ -383,4 +377,9 @@ a:hover, a:focus, a:active {
 
 .text-secondary {
   color: #ecb807 !important;
+}
+
+#feldenkrais img {
+  width: 80%;
+  max-width: 700px;
 }

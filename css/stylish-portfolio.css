@@ -87,7 +87,7 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-lake3.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-lake.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -141,7 +141,7 @@ a.white:visited {
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #013220;
+  background: #013220; /* #19609E */
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
